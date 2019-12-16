@@ -7,7 +7,7 @@ function failed {
 }
 
 echo ""
-echo "Basic Verify Bot Installer - Starting.."
+echo "Verify - Starting.."
 
 if hash git 1>/dev/null 2>&1
 then
